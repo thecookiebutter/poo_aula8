@@ -1,4 +1,4 @@
-####Titulo ou Arte do Projeto
+#### Titulo ou Arte do Projeto
 Versão: 1.0
 Status do Projeto: ✔️ Concluído
 ###Tópicos
@@ -14,19 +14,19 @@ Status do Projeto: ✔️ Concluído
 
 ...
 
-##Descrição do projeto
+## Descrição do projeto
 Descrição breve do projeto compondo um paragrafo ou dois.
 
-##Funcionalidades ⚙️
+## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
   Calcular a área de triângulos
 ✔️ Funcionalidade 2
   Comparar a área de 2 triângulos
   
-##Como rodar a aplicação
+## Como rodar a aplicação
 Usar um compilador de C++ como o Programiz.
 
-##Linguagens, dependencias e libs utilizadas 📚
+## Linguagens, dependencias e libs utilizadas 📚
 C++
 
 ##Desenvolvedores/Contribuintes:
