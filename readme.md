@@ -28,9 +28,9 @@ Descrição breve do projeto compondo um paragrafo ou dois.
 ## Como rodar a aplicação
 Usar um compilador de C++ como o Programiz.
 
-##### Linguagens, dependencias e libs utilizadas 📚
+## Linguagens, dependencias e libs utilizadas 📚
 
 ![This is an image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-##### Desenvolvedores/Contribuintes:
+## Desenvolvedores/Contribuintes:
 Luis Guilherme de Almeida Picinato
