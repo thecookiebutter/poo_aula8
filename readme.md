@@ -1,4 +1,4 @@
-### Cálculo de área de triângulos
+# Cálculo de área de triângulos
 Versão: 1.0
 Status do Projeto: ✔️ Concluído
 
