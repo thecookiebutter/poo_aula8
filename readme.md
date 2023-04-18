@@ -30,6 +30,7 @@ Usar um compilador de C++ como o Programiz.
 
 ##### Linguagens, dependencias e libs utilizadas 📚
 C++
+![This is an image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ##### Desenvolvedores/Contribuintes:
 Luis Guilherme de Almeida Picinato
