@@ -21,6 +21,7 @@ Descrição breve do projeto compondo um paragrafo ou dois.
 ##### Funcionalidades ⚙️
 ✔️ Funcionalidade 1
   Calcular a área de triângulos
+  
 ✔️ Funcionalidade 2
   Comparar a área de 2 triângulos
   
