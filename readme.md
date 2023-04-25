@@ -16,7 +16,7 @@ Status do Projeto: ✔️ Concluído
 ...
 
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+Simples programa para calcular a área de triângulos, e comparar a área de 2 triângulos.
 
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
